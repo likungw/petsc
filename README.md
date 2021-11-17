@@ -29,5 +29,4 @@ Derive your image from `rlincoln/petsc` and use the environment variables:
 
 [docker]: https://www.docker.com/
 [petsc]: http://www.mcs.anl.gov/petsc/
-[slepc]: http://www.grycap.upv.es/slepc/
 
